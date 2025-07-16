@@ -1,0 +1,15 @@
+/workspace/bin/Debug/net6.0/WordleGame
+/workspace/bin/Debug/net6.0/WordleGame.deps.json
+/workspace/bin/Debug/net6.0/WordleGame.runtimeconfig.json
+/workspace/bin/Debug/net6.0/WordleGame.dll
+/workspace/bin/Debug/net6.0/WordleGame.pdb
+/workspace/obj/Debug/net6.0/WordleGame.csproj.AssemblyReference.cache
+/workspace/obj/Debug/net6.0/WordleGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/obj/Debug/net6.0/WordleGame.AssemblyInfoInputs.cache
+/workspace/obj/Debug/net6.0/WordleGame.AssemblyInfo.cs
+/workspace/obj/Debug/net6.0/WordleGame.csproj.CoreCompileInputs.cache
+/workspace/obj/Debug/net6.0/WordleGame.dll
+/workspace/obj/Debug/net6.0/refint/WordleGame.dll
+/workspace/obj/Debug/net6.0/WordleGame.pdb
+/workspace/obj/Debug/net6.0/WordleGame.genruntimeconfig.cache
+/workspace/obj/Debug/net6.0/ref/WordleGame.dll
